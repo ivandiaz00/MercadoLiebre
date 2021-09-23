@@ -2,7 +2,7 @@
   "name": "c",
   "version": "1.0.0",
   "description": "npm help",
-  "main": "npm install express",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.17.1"
   },
